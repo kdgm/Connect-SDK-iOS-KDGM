@@ -3,7 +3,6 @@
 ## Initial
     git clone https://github.com/kdgm/Connect-SDK-iOS-Lite
     cd Connect-SDK-iOS-Lite
-    git submodule add https://github.com/kdgm/Connect-SDK-iOS-Google-Cast modules/google-cast
     git submodule update --init
     open ConnectSDK.xcodeproj
 

@@ -1,3 +1,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/kdgm/Connect-SDK-iOS-Core.git
+[submodule "modules/google-cast"]
+	path = modules/google-cast
+	url = https://github.com/kdgm/Connect-SDK-iOS-Google-Cast
