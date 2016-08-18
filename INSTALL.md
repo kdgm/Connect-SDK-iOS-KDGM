@@ -9,7 +9,7 @@
 
 ## XCode
 * "File -> Project Settings" and change "Derived Data" to "Project-Relative Location"
-* "File -> Add Files to ConnectSDK", and select the "modules/google-cast" folder
+* "File -> Add Files to ConnectSDK", and select the "modules" folder
 * In project delete "GoogleCastTests" in "google-cast" folder.
 * "Build Phases -> Headers", move the headers from private to public
 
